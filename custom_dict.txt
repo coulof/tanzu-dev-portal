@@ -1260,6 +1260,7 @@ Ruckle
 Rudd
 runnable
 runtimes?
+Rushton
 [sS]3
 SaaS
 SaaS(-based)?
@@ -1280,6 +1281,7 @@ SCDF('s)?
 schema(s)?
 Schimanski
 Schutta
+Schwaber
 screencaster
 SDK(s)?
 SDS
@@ -1407,6 +1409,7 @@ telco(s)*
 telecom
 [Tt]emplat(ed|ing)
 Templeton
+Teotti
 Teppanyaki
 Terraform(-ing)?
 testability
